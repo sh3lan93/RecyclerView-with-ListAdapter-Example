@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2018. Mohamed Shalan
+ * Android developer
+ * mohamed.sh3lan_93@outlook.com.
+ */
+
 package com.shalan.mohamed.recyclerviewwithlistadapterexample;
 
 /**
